@@ -8,7 +8,7 @@ const ProjectData = () => {
       date: 'April - Juni 2024',
       tools: ['Laravel', 'MySQL'],
       library: ['Bootstrap', 'Data Tables', 'chart.js'],
-      image: '/image-sistem-informasi-monitoring-penelitian.jpg',
+      image: './image-sistem-informasi-monitoring-penelitian.jpg',
 
       roles: [
         {
@@ -31,7 +31,7 @@ const ProjectData = () => {
       date: 'Agustus - September 2023',
       tools: ['CodeIgniter 4', 'MySQL'],
       library: ['Bootstrap', 'Data Tables', 'chart.js', 'jQuery'],
-      image: '/image-sistem-penjualan-koperasi.jpg',
+      image: './image-sistem-penjualan-koperasi.jpg',
       roles: [
         {
           name: 'Kepala Koperasi',
@@ -53,7 +53,7 @@ const ProjectData = () => {
       date: 'Mei - Juni 2023',
       tools: ['CodeIgniter 4', 'MySQL'],
       library: ['Bootstrap', 'Data Tables', 'chart.js', 'jQuery'],
-      image: '/image-sistem-parkir-biu.jpg',
+      image: './image-sistem-parkir-biu.jpg',
       roles: [
         {
           name: 'Admin',

@@ -32,7 +32,7 @@ const Pengalaman = () => {
           <Box gridColumn={{ initial: '1', md: '1' }}>
             <Flex justify='center' display='flex'>
               <img
-                src='/sertifikat-pengalaman.jpg'
+                src='./sertifikat-pengalaman.jpg'
                 alt='sertifikat Preview Project'
                 style={{
                   display: 'block',
