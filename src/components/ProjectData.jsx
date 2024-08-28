@@ -48,7 +48,7 @@ const ProjectData = () => {
     {
       judul: 'Sistem Parkir',
       desc: 'Sistem ini digunakan untuk mengidentifikasi user menggunakan kartu RFID di Universitas Bina Insani. Kartu tersebut berisi informasi saldo yang dapat ditambah dan berkurang ketika user keluar parkir. Sistem ini terdiri dari 4 Role: Admin dapat mengelola semua sumber daya sistem, Keuangan dapat mengisikan saldo user, Operator bertugas mengidentifikasi RFID user untuk mengurangi saldo, dan User sebagai pengguna parkir.',
-      url_demo: 'https://izi-cashier.is-best.net/',
+      url_demo: 'https://pms.is-best.net/',
       url_github: '',
       date: 'Mei - Juni 2023',
       tools: ['CodeIgniter 4', 'MySQL'],
